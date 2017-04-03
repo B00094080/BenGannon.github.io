@@ -1,0 +1,48 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.box1{
+	width:30%;
+	background-color: #ec2327;
+	height:100%;
+	display: inline-block;
+	margin-top: 10%;
+	overflow: hidden;
+	margin-left: 1.6%;
+
+}
+
+.box2{
+	width:30%;
+	background-color: #ec2327;
+	height:100%;
+	display: inline-block;
+	margin-left: 3%;
+	overflow: hidden;
+	
+}
+
+.box3{
+	width:30%;
+	background-color: #ec2327;
+	height:100%;
+	display:inline-block;
+	margin-left: 3%;
+	overflow: hidden;
+
+}
+
+.box1 img{
+	width: 100%;
+	height:35%;
+}
+
+.box2 img{
+	width: 100%;
+	height:10%;
+}
+
+.box3 img{
+	width: 100%;
+	height:10%;
+}

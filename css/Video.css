@@ -1,0 +1,35 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.MainContainer{
+	width:960px;
+	background-color:#979797;
+	height:1590px;
+	margin:auto;
+}
+
+.ContainerFixed{
+	position:fixed;
+	top:0px;
+	left:0px;
+	background-color: black;
+	width:100%;
+	height:12%;
+}
+
+.video{
+	padding-top: 100px;
+	text-align: center;
+}
+
+.video2{
+	text-align: center;
+}
+
+.video3{
+	text-align:center;
+}
+
+.video4{
+	text-align: center;
+}

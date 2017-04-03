@@ -1,0 +1,33 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body{
+	background:-webkit-linear-gradient(top,#060909 );
+	height:100%;
+}
+
+.Profile{
+	width: 50%;
+	display: inline-block;
+	margin-top: 5%;
+	height: 100%;
+}
+
+.Profile img{
+	border-radius: 10%;
+	border:#000000;
+	border-style: solid;
+	border-width: thick;
+	width: 80%;
+	height: 80%;
+	margin-top: 10%;
+	margin-left: 17%;
+}
+
+.textbox{
+	width: 40%;
+	background-color: #ec2327;
+	border:solid thick #000000;
+	display:inline-block;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+}

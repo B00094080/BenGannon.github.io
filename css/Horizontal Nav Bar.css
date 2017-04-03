@@ -1,0 +1,42 @@
+@charset "UTF-8";
+/* CSS Document */
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav a:link{
+    display: block;
+    font-weight: bold;
+    color: white;
+    background-color: black;
+    width: 120px;
+    text-align: center;
+    padding: 4px;
+    text-decoration: none;
+    text-transform: uppercase;
+    border:1px solid black; 
+}
+
+nav a:visited {
+    display: block;
+    font-weight: bold;
+    color: white;
+    background-color: black;
+    width: 120px;
+    text-align: center;
+    padding: 4px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+nav a:hover,nav a:active {
+    color:black;
+    background-color:white;
+}
+
+nav {
+	float:left;
+}
